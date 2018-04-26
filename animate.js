@@ -114,3 +114,5 @@ function progressBarUpdate(x, outOf) {
     // set the values on the text
     $(".status").html(x + " of " + outOf);
 }
+
+
